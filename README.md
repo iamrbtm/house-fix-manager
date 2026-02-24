@@ -1,6 +1,6 @@
 # House Fix Manager
 
-An Obsidian plugin for managing home renovation and repair tasks. Track work room by room, schedule people, run AI-powered analysis, and generate reports — all inside your vault.
+An Obsidian plugin for managing home renovation, repairs, and moving projects. Track work room by room, schedule people, run AI-powered analysis, and generate reports — all inside your vault.
 
 ## Features
 
