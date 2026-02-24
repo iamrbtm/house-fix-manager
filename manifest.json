@@ -1,0 +1,10 @@
+{
+  "id": "house-fix-manager",
+  "name": "House Fix Manager",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Manage home renovation tasks with AI-powered analysis, scheduling, and room organization.",
+  "author": "Jeremy Guill",
+  "authorUrl": "https://github.com/iamrbtm",
+  "isDesktopOnly": true
+}
